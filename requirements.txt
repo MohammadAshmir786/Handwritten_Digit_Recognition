@@ -1,0 +1,5 @@
+numpy
+tkinter
+keras
+Pillow
+matplotlib
